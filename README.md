@@ -19,7 +19,7 @@
 
 ### Links
 
-- Live Site URL: [Sneakers](http://foxsneakers.netlify.app/)
+- Live Site URL: [Sneakers]()
 
 ## My process
 
