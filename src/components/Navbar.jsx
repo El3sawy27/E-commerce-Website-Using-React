@@ -5,6 +5,7 @@ import menu from "../assets/icon-menu.svg";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleVisible } from "../slices/menuSlice";
 import { useSpring, animated } from "@react-spring/web";
+import avatar from "../assets/avatar.jpg";
 
 const Navbar = () => {
   const menuVisible = useSelector((state) => state.menu.isVisible);
@@ -126,6 +127,7 @@ const Navbar = () => {
             <img
               className="cursor-pointer w-10 sm:w-11 rounded-full aspect-square object-cover"
               loading="lazy"
+              src={avatar}
               alt="profile image"
             />
           </Link>

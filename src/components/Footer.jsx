@@ -31,22 +31,22 @@ const Footer = () => {
           links={[
             {
               text: "Linkedin",
-              to: "https://www.linkedin.com/in/mohamed-ashraf-142659246/",
+              to: "https://www.linkedin.com/in/el3sawiii/",
               blank: true,
             },
             {
               text: "Facebook",
-              to: "https://www.facebook.com/profile.php?id=100008910966277",
+              to: "https://www.facebook.com/mohamed.elesawy.27/",
               blank: true,
             },
             {
               text: "Github",
-              to: "https://github.com/urboifox",
+              to: "https://github.com/El3sawy27",
               blank: true,
             },
             {
               text: "Instagram",
-              to: "https://www.instagram.com/_urboifox/",
+              to: "https://www.instagram.com/muhaammed_el3sawiii/",
               blank: true,
             },
           ]}
@@ -73,10 +73,10 @@ const Footer = () => {
         Made with ❤️ and ☕ by{" "}
         <Link
           className="text-primary-100"
-          to="https://www.linkedin.com/in/mohamed-ashraf-142659246/"
+          to="https://www.linkedin.com/in/el3sawiii/"
           target="_blank"
         >
-          Fox
+          El3sawy
         </Link>
       </small>
     </footer>

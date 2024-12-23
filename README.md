@@ -49,6 +49,4 @@ My next step is to focus on Authorization and Authintication, dealing more with 
 
 ## Author
 
-- [Website](https://mohamed-dev.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/mohamed-ashraf-142659246/)
-"# E-commerce-Website-Using-React" 
+- [Linkedin](https://www.linkedin.com/in/el3sawiii/)
