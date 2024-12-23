@@ -23,6 +23,10 @@ const myRoutes = createBrowserRouter([
         element: <Home />,
       },
       {
+        path: "/E-commerce-Website-Using-React/",
+        element: <Home />,
+      },
+      {
         path: "/collections",
         element: <Collections />,
       },
