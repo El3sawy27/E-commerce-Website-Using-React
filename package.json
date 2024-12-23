@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://El3sawy27.github.io/",
+  "homepage": "https://El3sawy27.github.io/E-commerce-Website-Using-React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
