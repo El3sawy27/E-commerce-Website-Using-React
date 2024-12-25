@@ -11,6 +11,7 @@ import {
   ProductPage,
   Profile,
   Women,
+  Search,
 } from "./components";
 
 const myRoutes = createBrowserRouter([

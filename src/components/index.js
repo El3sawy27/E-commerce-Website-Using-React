@@ -34,6 +34,7 @@ import CounterButtons from "./CounterButtons";
 import CardOverlay from "./CardOverlay";
 import ImagePopup from "./ImagePopup";
 import ShowCaseProducts from "./ShowCaseProducts";
+import Search from "./Search";
 export {
   About,
   ShowCaseProducts,
@@ -71,4 +72,5 @@ export {
   Women,
   CartIcon,
   CloseIcon,
+  Search,
 };

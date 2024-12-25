@@ -15,6 +15,7 @@ const Profile = () => {
           <h2 className="text-center font-bold mb-10 text-sec-400 text-3xl">
             Welcome Back!
           </h2>
+
           <div className="flex flex-col gap-5 mb-2">
             <input
               type="text"

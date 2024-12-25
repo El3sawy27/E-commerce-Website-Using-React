@@ -5,7 +5,7 @@ import menu from "../assets/icon-menu.svg";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleVisible } from "../slices/menuSlice";
 import { useSpring, animated } from "@react-spring/web";
-import avatar from "../assets/avatar.jpg";
+import avatar from "../assets/avatar.png";
 
 const Navbar = () => {
   const menuVisible = useSelector((state) => state.menu.isVisible);
@@ -90,6 +90,7 @@ const Navbar = () => {
                   Women
                 </NavLink>
               </li>
+
               <li>
                 <NavLink
                   className="navLink transitionMe"

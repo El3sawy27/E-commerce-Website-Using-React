@@ -2,6 +2,7 @@ import sneakerImage from "../assets/home-sneaker.webp";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import ShowCaseProducts from "./ShowCaseProducts";
+
 const Home = () => {
   return (
     <div>
@@ -38,6 +39,7 @@ const Home = () => {
           />
         </div>
       </div>
+
       <ShowCaseProducts />
     </div>
   );
